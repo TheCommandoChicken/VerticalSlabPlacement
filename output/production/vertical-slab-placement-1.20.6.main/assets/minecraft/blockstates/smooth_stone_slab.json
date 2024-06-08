@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom,axis=y": { "model": "minecraft:block/smooth_stone_slab" },
+    "type=double,axis=y": { "model": "minecraft:block/smooth_stone_slab_double" },
+    "type=double,axis=x": { "model": "minecraft:block/smooth_stone_slab_double_x" },
+    "type=double,axis=z": { "model": "minecraft:block/smooth_stone_slab_double_z" },
+    "type=top,axis=y": { "model": "minecraft:block/smooth_stone_slab_top" },
+    "type=bottom,axis=z": { "model": "minecraft:block/smooth_stone_slab_vertical_z"},
+    "type=top,axis=z": { "model": "minecraft:block/smooth_stone_slab_vertical_z_top"},
+    "type=top,axis=x": { "model": "minecraft:block/smooth_stone_slab_vertical_x_top"},
+    "type=bottom,axis=x": { "model": "minecraft:block/smooth_stone_slab_vertical_x"}
+  }
+}

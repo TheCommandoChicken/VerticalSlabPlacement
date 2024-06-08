@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "vertical-slab-placement",
+	"version": "1.0.0",
+	"name": "Vertical Slab Placement",
+	"description": "Allows for the placement of all vanilla slabs in vertical orientations.",
+	"authors": [
+		"Chicken"
+	],
+	"contact": {
+
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/vertical_slab_placement/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.verticalslabplacement.VerticalSlabPlacement"
+		]
+	},
+	"mixins": [
+		"vertical-slab-placement.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.6",
+		"java": ">=21",
+		"fabric-api": "*",
+		"fabric-key-binding-api-v1": "*"
+	}
+}

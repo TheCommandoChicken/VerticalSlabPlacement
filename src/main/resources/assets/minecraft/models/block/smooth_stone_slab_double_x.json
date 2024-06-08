@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "minecraft:block/smooth_stone_slab_side_vertical",
+    "up": "minecraft:block/smooth_stone_slab_side_vertical",
+    "west": "minecraft:block/smooth_stone",
+    "east": "minecraft:block/smooth_stone",
+    "north": "minecraft:block/smooth_stone_slab_side_vertical",
+    "south": "minecraft:block/smooth_stone_slab_side_vertical"
+  }
+}

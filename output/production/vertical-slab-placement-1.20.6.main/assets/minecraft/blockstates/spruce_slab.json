@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "type=bottom,axis=y": { "model": "minecraft:block/spruce_slab" },
+    "type=double": { "model": "minecraft:block/spruce_planks" },
+    "type=top,axis=y": { "model": "minecraft:block/spruce_slab_top" },
+    "type=bottom,axis=z": { "model": "minecraft:block/spruce_slab_vertical_z", "uv-lock": true },
+    "type=top,axis=z": { "model": "minecraft:block/spruce_slab_vertical_z_top", "uv-lock": true },
+    "type=top,axis=x": { "model": "minecraft:block/spruce_slab_vertical_x_top", "uv-lock": true },
+    "type=bottom,axis=x": { "model": "minecraft:block/spruce_slab_vertical_x", "uv-lock": true }
+  }
+}
